@@ -1,0 +1,6 @@
+{
+  "profileId" : "idx-soa-cache",
+  "abstractProfile" : false,
+  "version" : "1.0",
+  "bundles" : [ "mvn:id.co.idx.soa/idx-cache-hazelcast/1.0.6-SNAPSHOT" ]
+}

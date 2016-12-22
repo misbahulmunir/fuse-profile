@@ -1,0 +1,6 @@
+{
+  "profileId" : "idx-soa-common",
+  "abstractProfile" : false,
+  "version" : "1.0",
+  "bundles" : [ "mvn:org.postgresql/postgresql/9.4.1212" ]
+}
